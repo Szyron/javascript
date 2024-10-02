@@ -1,0 +1,11 @@
+JSON API
+
+json nem valodi adatot add vissza
+
+Rest API
+adatcsere 
+
+Resources -->
+posts: [] <---lista
+       {} <---objektum
+       

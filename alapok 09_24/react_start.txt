@@ -1,0 +1,8 @@
+1.npm create vite@latest
+2.y
+3. .
+4. React + Javascript
+5.npm install
+6.npm run dev
+
+https://vite.dev/guide/
