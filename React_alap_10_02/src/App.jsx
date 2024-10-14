@@ -1,15 +1,20 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Header from './components/Header'
+import Posts from './components/Posts'
+import Users from './components/Users'
+
 
 function App() {
-  const [count, setCount] = useState(0)
+  //Kontroller resze
 
   return (
-    <>
-    <h1>React Alap app</h1>
-    </>
+    //sablon resze
+    <div>
+      <Header headerText="React APP"/>
+      <Header headerText="AlaP"/>
+      <Users/>
+      
+    </div>
   )
 }
 
