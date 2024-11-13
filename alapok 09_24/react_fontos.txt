@@ -1,0 +1,13 @@
+npm i --save-dev daisyui
+
+plugins---> require('daisyui')
+
+npm run dev
+
+
+
+https://tailwindcss.com/docs/guides/vite
+https://daisyui.com/components/textarea/
+npm i react-router-dom
+
+https://rickandmortyapi.com/api/character
