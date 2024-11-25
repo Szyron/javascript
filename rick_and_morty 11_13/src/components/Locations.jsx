@@ -31,7 +31,7 @@ function Locations() {
 
   return (
   <div className="bg-sky-100">
-      <h1 className="text-2x font-bold text-center text-sky-700">Lokaciok: </h1>
+      <h1 className="text-2x font-bold text-center text-sky-700">Lokaciok:</h1>
       <div className="text-center m-3">
         <div className="join">
             <button onClick={prevPage} className="join-item btn">«</button>

@@ -45,7 +45,6 @@ function Episodes() {
           //character={character} itt adjuk at a karaktert a Character komponensnek
       }
       </div>
-
     </div>
   )
 }
