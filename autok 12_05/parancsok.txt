@@ -1,0 +1,21 @@
+---------------------------------------
+Backend:
+
+npm init -y
+
+https://www.npmjs.com/package/json-server
+npm install json-server
+
+package.json file backend-> "start": "json-server --port 8000 --watch autok.json" 
+npm start
+-----------------------------------------
+THUNDER CLIENT == CRUD vscode-ban
+
+GET,POST,PATCH
+
+
+-----------------------------------------
+Frontend:
+
+npm i
+npm i react-router-dom
