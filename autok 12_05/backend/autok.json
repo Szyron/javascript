@@ -1,0 +1,68 @@
+{
+  "autok": [
+    {
+      "id": "1",
+      "marka": "Suzuki",
+      "model": "Swift",
+      "gyartasiev": "1999",
+      "rendszam": "GXV-929",
+      "szin": "zold"
+    },
+    {
+      "id": "2",
+      "marka": "Opel",
+      "model": "Zafira",
+      "gyartasiev": "2010",
+      "rendszam": "LHM-525",
+      "szin": "bezs"
+    },
+    {
+      "id": "3",
+      "marka": "Suzuki",
+      "model": "Vagon R+",
+      "gyartasiev": "2002",
+      "rendszam": "IBU-963",
+      "szin": "szurke"
+    },
+    {
+      "id": "4",
+      "marka": "Skoda",
+      "model": "Oktavia",
+      "gyartasiev": "2015",
+      "rendszam": "PRB-211",
+      "szin": "feher"
+    },
+    {
+      "id": "5",
+      "marka": "Suzuki",
+      "model": "Alto",
+      "gyartasiev": "2020",
+      "rendszam": "TRz-345",
+      "szin": "fekete"
+    },
+    {
+      "id": "6",
+      "marka": "Volvo",
+      "model": "Field",
+      "rendszam": "FFF-453",
+      "gyartasiev": "1990",
+      "szin": "fekete"
+    },
+    {
+      "id": "7",
+      "marka": "Opel",
+      "model": "Astra",
+      "rendszam": "RET-234",
+      "gyartasiev": "2003",
+      "szin": "zold"
+    },
+    {
+      "id": "8",
+      "marka": "Nissan",
+      "model": "350 Z",
+      "rendszam": "ZZZ-350",
+      "gyartasiev": "2001",
+      "szin": "fekete"
+    }
+  ]
+}
