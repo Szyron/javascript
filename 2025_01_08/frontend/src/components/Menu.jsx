@@ -41,6 +41,16 @@ function Menu() {
                         target="">Uj fajta felvitele
                     </Link>
                 </li>
+                <li>
+                    <Link to="/ujkutya" className="text-base font-normal text-gray-500 list-none hover:text-gray-900"
+                        target="">Uj rendelesi adat
+                    </Link>
+                </li>
+                <li>
+                    <Link to="/ujkutyanev" className="text-base font-normal text-gray-500 list-none hover:text-gray-900"
+                        target="">Uj kutyanev felvitele
+                    </Link>
+                </li>
             </div>
         </nav>
     </div>

@@ -53,8 +53,8 @@ function KutyafajtaForm() {
     <div className="">
         <h1 className="text-3xl fond-bold text-center my-5">{cim}</h1>
         <form onSubmit={onSubmit} className="flex flex-col items-center justify-center my-5">
-            <input type="text" required id="nev" value={formData.nev} onChange={writeData} placeholder="Fajta neve" className="input input-bordered w-full max-w-xs" /> 
-            <input type="text" required id="eredetinev" value={formData.eredetinev} onChange={writeData}  placeholder="Fajta erdetinev" className="input input-bordered w-full max-w-xs" />
+            <input type="text" required id="nev" value={formData.nev} onChange={writeData} placeholder="Fajta neve" className="input input-bordered w-full max-w-xs m-5" /> 
+            <input type="text" required id="eredetinev" value={formData.eredetinev} onChange={writeData}  placeholder="Fajta erdetinev" className="input input-bordered w-full max-w-xs m-3" />
             <button type="submit" className="btn btn-primary">Kuldes</button>
         </form>
     </div>
