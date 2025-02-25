@@ -1,0 +1,4 @@
+Cypress test:
+
+npm install cypress
+npx cypress open
