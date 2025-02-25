@@ -1,0 +1,17 @@
+Typescript alapok
+
+npm init -y
+npm i typescript
+npx tsc -init
+
+Verzio
+tsc -v ||or|| npx tsc -v
+
+tsconfig.json megnyit es --> "rootDir": "./src", 
+			 --> "outDir": "./js",
+
+Elinditas:
+npx tsc -w
+
+Typescript = Javascript tipusossag
+
