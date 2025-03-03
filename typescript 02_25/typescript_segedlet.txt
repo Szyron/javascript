@@ -12,6 +12,3 @@ tsconfig.json megnyit es --> "rootDir": "./src",
 
 Elinditas:
 npx tsc -w
-
-Typescript = Javascript tipusossag
-

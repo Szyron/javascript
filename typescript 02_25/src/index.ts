@@ -72,4 +72,3 @@ type Dolgozo=[nev:string,eletkor:number];
 let  dolgozo:Dolgozo=["Kovacs Lajos",33];
 
 const [nev,eletkor]=dolgozo;
-
