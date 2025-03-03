@@ -1,0 +1,8 @@
+REACT UPDATE +DIASYUI+TYPESCIRPT
+
+1.npm create vite@latest
+2.npm i
+
+
+https://randomuser.me/api/?results=999
+https://jsonplaceholder.typicode.com/guide/
