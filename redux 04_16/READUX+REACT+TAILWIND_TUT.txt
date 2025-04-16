@@ -1,0 +1,12 @@
+REDUX install
+
+npm create vite@latest
+npm i
+
+NEM SZABAD ELINDITANI
+
+Daisy UI +TAILWIND telepítése:
+npm install tailwindcss@latest @tailwindcss/vite@latest daisyui@latest
+
+Kettő parancs:
+https://redux-toolkit.js.org/introduction/getting-started
